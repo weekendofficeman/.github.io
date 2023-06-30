@@ -613,7 +613,8 @@ textarea.form-control {
   position: relative;
   text-align: center;
   background-color: #99ccff;
-  padding-top: 121px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   align-items: flex-start;
 }
 
